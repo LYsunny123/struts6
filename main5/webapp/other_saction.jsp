@@ -12,6 +12,6 @@
     <title>Title</title>
 </head>
 <body>
-<s:property value="username"/>
+<s:action name="login" namespace="/" executeResult="true"></s:action>
 </body>
 </html>
